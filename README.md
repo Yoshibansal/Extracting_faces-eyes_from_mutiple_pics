@@ -1,4 +1,4 @@
-# Extracting_faces-eyes_from_mutiple_pics
+# Extracting faces and eyes from mutiple pictures
 Through this you can easily extract faces and eyes from the various images.
 
 Step 1: Download "haarcascade_frontalface_alt.xml" and "haarcascade_eye.xml" files from the repository
@@ -13,7 +13,7 @@ Step 5: If you want to uplaod your own pics than you have to put them in the loc
         
         1. Run the whole code again cell by cell.
 
-<img width="1173" alt="screen shot1" src="https://user-images.githubusercontent.com/56353404/75783175-2078a600-5d86-11ea-8b36-297df0582dd9.png">
+<img src = "screen%20shot1.png" width="600" height="400">
 
 Note: Your final photos(Extracted) of face and eyes are saved inside the folder /face_detect.
 
